@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="smoke Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="21.440">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToShippingPageSuccessfully" time="14.173" classname="com.xcart.mobile.testsuite.homePage.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToComingsoonPageSuccessfully" time="1.950" classname="com.xcart.mobile.testsuite.homePage.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToContactUsPageSuccessfully" time="3.108" classname="com.xcart.mobile.testsuite.homePage.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToNewPageSuccessfully" time="2.209" classname="com.xcart.mobile.testsuite.homePage.TopMenuTest" />
+      
+</testsuite>
